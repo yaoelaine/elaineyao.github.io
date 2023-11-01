@@ -1,12 +1,13 @@
-# Creative portfolio theme for hugo
+# Elaine Yao Portfolio
 
 [![Build Status](https://travis-ci.org/kishaningithub/hugo-creative-portfolio-theme.svg?branch=master)](https://travis-ci.org/kishaningithub/hugo-creative-portfolio-theme)
 [![Join the chat at https://gitter.im/hugo-creative-portfolio-theme/Lobby](https://badges.gitter.im/hugo-creative-portfolio-theme/Lobby.svg)](https://gitter.im/hugo-creative-portfolio-theme/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Buy me a coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-blue.svg)](https://www.paypal.me/kishansh/5)
 
-Creative portfolio is a clean and elegant template mainly made for designers and creatives but can be easily transformed into a generic website.
+Hello!<br>
+I completed my master's degree in industrial design at Lund University in Sweden, and I hold a bachelor's degree in product design from Jiangnan University in China. <br>
+During my academic journey, I have focused on product design with a strong emphasis on traditional culture. I have had the privilege of working on projects that bridge the gap between contemporary design and preserving the rich heritage of various cultures. 
 
-This Hugo theme was ported from [Bootstrapious](https://bootstrapious.com/p/creative-portfolio) for training and fun. It has a very nice landing page, a comments system by Disqus, contact forms by Formspree and Google Analytics.
 
 ![screenshot](https://raw.githubusercontent.com/kishaningithub/hugo-creative-portfolio-theme/master/images/screenshot.png)
 
@@ -34,7 +35,7 @@ First, let's take a look at the [config.toml](https://github.com/kishaningithub/
 You can change the color of the theme by modifying the following key.
 
 ```toml
-style = "default"
+style = "blue"
 ```
 
 Available options are: `default` (pink), `blue`, `green`, `pink`, `red`, `sea`, `violet`.
